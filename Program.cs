@@ -31,7 +31,7 @@ namespace MobileBillCalculation
                 {
                     mobileBill += 20;
                 }
-                starttime = starttime1;
+                starttime = starttime1; 
             }
             Console.WriteLine("\nTotal Bill: " + mobileBill/100 + " Taka");
             Console.ReadKey();
